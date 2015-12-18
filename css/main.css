@@ -1,0 +1,23 @@
+#header nav { float: right; }
+#header nav li { float: left; list-style: none; display: inline-block; padding: 6px 3px; }
+
+#container { max-width: 960px; display: block; margin-left: auto; margin-right: auto; width: 100%; }
+
+#home-page h1 { color: #A70A1F; }
+#home-page h3 { color: #F49581; }
+#home-page body { font: 100% Helvetica, sans-serif; }
+#home-page p { color: #27564e; }
+#home-page h2 { color: #677bb8; }
+#home-page .img { border: 2px solid #a1a1a1; padding: 10px 8px; background: #dddddd; -webkit-border-radius: 12px; -moz-border-radius: 12px; -ms-border-radius: 12px; border-radius: 12px; }
+#home-page .thumbs img { padding-right: 35px; padding-bottom: 25px; }
+#home-page .container { width: 100%; padding-bottom: 90px; }
+#home-page .article[role="main"] { float: left; width: 50%; }
+#home-page .article p { padding-right: 2em; }
+#home-page .aside[role="complimentary"] { float: right; width: 50%; }
+
+#footer #footer { margin: auto; }
+#footer nav ul { margin: 0; padding: 0; list-style: none; }
+#footer nav li { display: inline-block; }
+#footer nav a { display: block; padding: 6px 4px; text-decoration: none; color: #F49581; }
+
+/*# sourceMappingURL=main.css.map */

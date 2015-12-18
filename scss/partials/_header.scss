@@ -1,0 +1,15 @@
+// Header SCSS
+
+#header {
+
+    nav {
+    	float: right;
+
+    	li {
+    		float: left;
+    		list-style: none;
+    		display: inline-block;
+    		padding: 6px 3px;
+    	}	
+	}
+}// #header
